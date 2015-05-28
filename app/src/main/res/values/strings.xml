@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Leonelexterna</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mensaje">Escribe el Mensaje</string>
+    <string name="almacenar">GUARDAR</string>
+    <string name="ver">ABRIR</string>
+</resources>
